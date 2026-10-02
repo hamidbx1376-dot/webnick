@@ -1,0 +1,6 @@
+{
+  "name": "Webnick - آژانس طراحی سایت و توسعه وب",
+  "description": "وبنیک؛ آژانس تخصصی طراحی سایت اختصاصی، سئو، فروشگاه آنلاین و رشد کسب‌وکار در دنیای دیجیتال.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
